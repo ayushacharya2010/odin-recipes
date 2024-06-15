@@ -1,0 +1,38 @@
+* {
+    background-color: burlywood;
+    font-weight: bold;
+    margin: .5%;
+    padding: 0px;
+    border: 0px;
+    border-radius: 20px;
+}
+
+h1, h2, h3 {
+    background-color: #c4a070;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+ol, ul {
+    margin-left: 20px;
+}
+
+ol > ol > li {
+    margin-left: 40px;
+}
+
+ul > ul > li {
+    margin-left: 40px;
+}
+
+div {
+    margin-left: 25px;
+}
